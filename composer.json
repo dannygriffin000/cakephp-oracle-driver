@@ -34,7 +34,7 @@
     },
     "require-dev": {
         "cakephp/cakephp-codesniffer": "dev-master",
-        "phpunit/phpunit": "^5.0",
+        "phpunit/phpunit": "^8.1",
         "cakephp/cakephp": "3.2.3"
     },
     "repositories": [
